@@ -1,6 +1,6 @@
-# kasaz-react-native
+# The Cut
 
-## A haircut service mobile app - Beta version
+## A haircut service mobile app for barbers and customers - Beta version
 
 ### `react-native` `redux` `react hooks` `react-navigation` `styled-component` `yup` `aws-amplify` `graphql` `apollo-client` `hasura`
 
